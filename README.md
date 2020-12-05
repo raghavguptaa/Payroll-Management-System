@@ -30,9 +30,7 @@
   First when the Project starts, “LOGIN SCREEN” will be visible.
   ![](images/Picture1.png)
   
-  **MAIN MENU** :
-   ![](images/Picture2.png)
-  After successfully logging in the user will get 6 options. 
+  **MAIN MENU** : After successfully logging in the user will get 6 options. 
   
   ~EMPLOYEE MANAGER
   
@@ -45,6 +43,8 @@
   ~DEDUCTION 
   
   ~PAYMENT
+  
+  ![](images/Picture2.png)
   
   **EMPLOYEE MANAGER**:In which we can Add or Delete Employee
   
