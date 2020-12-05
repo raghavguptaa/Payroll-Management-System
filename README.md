@@ -31,13 +31,24 @@
   ![](images/Picture1.png)
   
   **MAIN MENU** :
+   ![](images/Picture2.png)
   After successfully logging in the user will get 6 options. 
+  
   ~EMPLOYEE MANAGER
+  
   ~SEARCH EMPLOYEE
+  
   ~ALLOWANCE
+  
   ~UPDATE SALARY
+  
   ~DEDUCTION 
+  
   ~PAYMENT
   
-  ![](images/Picture2.png)
+  **EMPLOYEE MANAGER**
+  
+  ![](images/Picture3.png)
+  
+  
   
