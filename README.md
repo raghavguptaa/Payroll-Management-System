@@ -24,3 +24,20 @@
 •	The project is totally built at administrator end of things. Only the administrator
   is guaranteed the access. The purpose of the project is to build an application that 
   reduces the manual work and it can be used as a school project.
+  
+  
+  **LOGIN SCREEN** :
+  First when the Project starts, “LOGIN SCREEN” will be visible.
+  ![](images/Picture1.png)
+  
+  **MAIN MENU** :
+  After successfully logging in the user will get 6 options. 
+  ~EMPLOYEE MANAGER
+  ~SEARCH EMPLOYEE
+  ~ALLOWANCE
+  ~UPDATE SALARY
+  ~DEDUCTION 
+  ~PAYMENT
+  
+  ![](images/Picture2.png)
+  
