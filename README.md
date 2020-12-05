@@ -46,9 +46,34 @@
   
   ~PAYMENT
   
-  **EMPLOYEE MANAGER**
+  **EMPLOYEE MANAGER**:In which we can Add or Delete Employee
   
   ![](images/Picture3.png)
+  
+  **SEARCH EMPLOYEE**:: You can Search Employee Details
+  
+  ![](images/Picture4.png)
+  
+  **ALLOWANCE**: If an employee does an Overtime or gets a Bonus ,so money will be added to his/her Basic Salary. 
+  
+  ![](images/Picture5.png)
+  
+  **UPDATE SALARY**: If want to increase or decrease the salary.
+  
+  ![](images/Picture6.png)
+  
+  **DEDUCTIONS** : If one want to deduct the salary.
+  
+  ![](images/Picture7.png)
+  
+  **PAYMENT** : Will make a Salary slip in .pdf format.
+  
+  ![](images/Picture8.png)
+  
+  **AUDIT DETAILS** : Keep a track of when we have logged in or out.
+  
+  ![](images/Picture9.png)
+  
   
   
   
