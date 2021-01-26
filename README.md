@@ -31,18 +31,6 @@
   
   <h2>MAIN MENU:</h2> 
   
-  <h3>1.EMPLOYEE MANAGER</h3> 
-  
-  <h3>2.SEARCH EMPLOYEE</h3> 
-  
-  <h3>3.ALLOWANCE</h3> 
-  
-  <h3>4.UPDATE SALARY</h3> 
-  
-  <h3>5.DEDUCTION</h3> 
-  
-  <h3>6.PAYMENT</h3>
-  
   ![](images/Picture2.png)
   
   <h3>EMPLOYEE MANAGER:In which we can Add or Delete Employee.</h3>
