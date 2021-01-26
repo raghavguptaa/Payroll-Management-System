@@ -31,19 +31,18 @@
   ![](images/Picture1.png)
   
   <h2>MAIN MENU:</h2> 
-  After successfully logging in the user will get 6 options. 
   
-  <h3>EMPLOYEE MANAGER</h3> 
+  <h3>1.EMPLOYEE MANAGER</h3> 
   
-  <h3>SEARCH EMPLOYEE</h3> 
+  <h3>2.SEARCH EMPLOYEE</h3> 
   
-  <h3>ALLOWANCE</h3> 
+  <h3>3.ALLOWANCE</h3> 
   
-  <h3>UPDATE SALARY</h3> 
+  <h3>4.UPDATE SALARY</h3> 
   
-  <h3>DEDUCTION</h3> 
+  <h3>5.DEDUCTION</h3> 
   
-  <h3>PAYMENT</h3>
+  <h3>6.PAYMENT</h3>
   
   ![](images/Picture2.png)
   
@@ -71,9 +70,6 @@
   
   ![](images/Picture8.png)
   
-  <h3>AUDIT DETAILS: Keep a track of when we have logged in or out.</h3>
-  
-  ![](images/Picture9.png)
   
   
   
