@@ -30,7 +30,8 @@
   First when the Project starts, “LOGIN SCREEN” will be visible.
   ![](images/Picture1.png)
   
-  <h2>MAIN MENU</h2> : After successfully logging in the user will get 6 options. 
+  <h2>MAIN MENU:</h2> 
+  After successfully logging in the user will get 6 options. 
   
   <h3>EMPLOYEE MANAGER</h3> 
   
@@ -46,31 +47,31 @@
   
   ![](images/Picture2.png)
   
-  <h3>**EMPLOYEE MANAGER**:In which we can Add or Delete Employee.</h3>
+  <h3>EMPLOYEE MANAGER:In which we can Add or Delete Employee.</h3>
   
   ![](images/Picture3.png)
   
-  <h3>**SEARCH EMPLOYEE**:: You can Search Employee Details.</h3>
+  <h3>SEARCH EMPLOYEE: You can Search Employee Details.</h3>
   
   ![](images/Picture4.png)
   
-  <h3>**ALLOWANCE**: If an employee does an Overtime or gets a Bonus ,so money will be added to his/her Basic Salary.</h3> 
+  <h3>ALLOWANCE: If an employee does an Overtime or gets a Bonus ,so money will be added to his/her Basic Salary.</h3> 
   
   ![](images/Picture5.png)
   
-  <h3>**UPDATE SALARY**: If want to increase or decrease the salary.</h3>
+  <h3>UPDATE SALARY: If want to increase or decrease the salary.</h3>
   
   ![](images/Picture6.png)
   
-  <h3>**DEDUCTIONS** : If one want to deduct the salary.</h3>
+  <h3>DEDUCTIONS: If one want to deduct the salary.</h3>
   
   ![](images/Picture7.png)
   
-  <h3>**PAYMENT** : Will make a Salary slip in .pdf format.</h3>
+  <h3>PAYMENT: Will make a Salary slip in .pdf format.</h3>
   
   ![](images/Picture8.png)
   
-  <h3>**AUDIT DETAILS** : Keep a track of when we have logged in or out.</h3>
+  <h3>AUDIT DETAILS: Keep a track of when we have logged in or out.</h3>
   
   ![](images/Picture9.png)
   
