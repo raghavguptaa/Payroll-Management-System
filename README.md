@@ -1,4 +1,4 @@
-**INTRODUCTION**
+<h1>INTRODUCTION</h1>
 
 •	The employee payroll management system is a Java project developed using NetBeans with 
   backend SQLite as the database.
