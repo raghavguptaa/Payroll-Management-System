@@ -28,7 +28,6 @@
   
   <h2>LOGIN SCREEN :</h2>
   First when the Project starts, “LOGIN SCREEN” will be visible.
-  ![](images/Picture1.png)
   
   <h2>MAIN MENU:</h2> 
   
