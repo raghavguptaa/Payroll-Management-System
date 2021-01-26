@@ -26,51 +26,51 @@
   reduces the manual work and it can be used as a school project.
   
   
-  **LOGIN SCREEN** :
+  <h2>LOGIN SCREEN :</h2>
   First when the Project starts, “LOGIN SCREEN” will be visible.
   ![](images/Picture1.png)
   
-  **MAIN MENU** : After successfully logging in the user will get 6 options. 
+  <h2>MAIN MENU</h2> : After successfully logging in the user will get 6 options. 
   
-  ~EMPLOYEE MANAGER
+  <h3>EMPLOYEE MANAGER</h3> 
   
-  ~SEARCH EMPLOYEE
+  <h3>SEARCH EMPLOYEE</h3> 
   
-  ~ALLOWANCE
+  <h3>ALLOWANCE</h3> 
   
-  ~UPDATE SALARY
+  <h3>UPDATE SALARY</h3> 
   
-  ~DEDUCTION 
+  <h3>DEDUCTION</h3> 
   
-  ~PAYMENT
+  <h3>PAYMENT</h3>
   
   ![](images/Picture2.png)
   
-  **EMPLOYEE MANAGER**:In which we can Add or Delete Employee
+  <h3>**EMPLOYEE MANAGER**:In which we can Add or Delete Employee.</h3>
   
   ![](images/Picture3.png)
   
-  **SEARCH EMPLOYEE**:: You can Search Employee Details
+  <h3>**SEARCH EMPLOYEE**:: You can Search Employee Details.</h3>
   
   ![](images/Picture4.png)
   
-  **ALLOWANCE**: If an employee does an Overtime or gets a Bonus ,so money will be added to his/her Basic Salary. 
+  <h3>**ALLOWANCE**: If an employee does an Overtime or gets a Bonus ,so money will be added to his/her Basic Salary.</h3> 
   
   ![](images/Picture5.png)
   
-  **UPDATE SALARY**: If want to increase or decrease the salary.
+  <h3>**UPDATE SALARY**: If want to increase or decrease the salary.</h3>
   
   ![](images/Picture6.png)
   
-  **DEDUCTIONS** : If one want to deduct the salary.
+  <h3>**DEDUCTIONS** : If one want to deduct the salary.</h3>
   
   ![](images/Picture7.png)
   
-  **PAYMENT** : Will make a Salary slip in .pdf format.
+  <h3>**PAYMENT** : Will make a Salary slip in .pdf format.</h3>
   
   ![](images/Picture8.png)
   
-  **AUDIT DETAILS** : Keep a track of when we have logged in or out.
+  <h3>**AUDIT DETAILS** : Keep a track of when we have logged in or out.</h3>
   
   ![](images/Picture9.png)
   
